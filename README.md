@@ -22,5 +22,5 @@ Since there is such a large group of "Senior" staff rertiring, it will be very s
 ![image](https://user-images.githubusercontent.com/86776606/199175869-50fd08ea-68c0-452a-8e42-64f3e792aed4.png)  
 
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?  
-There are only 1,549 employess eligible to participate in the mentorship program. There are not nearly enough employees to mentor the enxt generation of employees. If this were to maintain a consistent ratio, it would be roughly 70 people per mentoring employee. Learning environments with a large amount of students can be very detrimental to all parties involved as it will breed unhealthy competition and poor learning structures.  
+There are only 1,549 employess eligible to participate in the mentorship program. There are not nearly enough employees to mentor the next generation of employees. If this were to maintain a consistent ratio, it would be roughly 70 people per mentoring employee. Learning environments with a large amount of students can be very detrimental to all parties involved as it will breed unhealthy competition and poor learning structures.  
 ![image](https://user-images.githubusercontent.com/86776606/199182780-d011186a-9456-43c9-bce0-3a6d74f09820.png)
